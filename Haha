@@ -60,7 +60,7 @@ void init() {
 
 // Main part
 int main(int argc, char** argv) {
-    // Set the line coordinates within the code
+    // Set the line coordinates within the code cuz thats how it goes
     x0 = 100;
     y0 = 100;
     x1 = 700;
